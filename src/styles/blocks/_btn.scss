@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  border-radius: 5rem;
+  background: $primary;
+  padding: 0.7rem 0.7rem 0.7rem 2rem;
+  font-size: 1.7rem;
+  color: $white;
+
+  i {
+    height: 4rem;
+    width: 4rem;
+    line-height: 4rem;
+    font-size: 1.7rem;
+    text-align: center;
+    background: $white;
+    color: $primary;
+    border-radius: 50%;
+    margin-left: 1rem;
+    transition: 0.2s linear;
+  }
+
+  &:hover i{
+    margin-left: 2rem;
+  }
+}

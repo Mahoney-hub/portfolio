@@ -1,0 +1,87 @@
+/* Tablet */
+
+@media (max-width: 1200px) {
+
+  html {
+    font-size: 55%;
+  }
+
+  section {
+    padding: 3rem 2rem;
+  }
+
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+  .heading {
+    font-size: 12vw;
+  }
+
+  .navbar {
+
+    a {
+
+      i {
+        padding: 0;
+      }
+
+      span {
+        display: none;
+
+        &:hover {
+          padding-bottom: 2rem;
+        }
+      }
+    }
+
+  }
+
+  .home {
+    text-align: center;
+    gap: 2rem;
+
+    .image img {
+      height: 40rem;
+      width: 40rem;
+    }
+
+    .content {
+
+      h3 {
+        font-size: 3rem;
+      }
+
+      span {
+        font-size: 2.5rem;
+      }
+
+    }
+  }
+
+  .contact .row .form .inputBox input {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Mobile XS */
+
+@media (max-width: 450px) {
+
+  html {
+    font-size: 50%;
+  }
+
+  .home {
+    flex-direction: column;
+
+    .image img {
+      height: 35rem;
+      width: 35rem;
+    }
+  }
+
+}

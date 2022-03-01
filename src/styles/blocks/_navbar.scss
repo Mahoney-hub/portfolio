@@ -1,0 +1,33 @@
+.navbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: flex-end;
+  z-index: 1000;
+
+  a {
+    padding: 2rem;
+    font-size: 2rem;
+    background: $light-bg;
+    flex: 1;
+    color: $white;
+    text-align: center;
+    transition: 0.2s linear;
+
+    i {
+      color: $primary;
+      padding-right: 1rem;
+    }
+
+    &:hover {
+      background: $primary;
+      padding-bottom: 6rem;
+
+      i {
+        color: $white;
+      }
+    }
+  }
+}

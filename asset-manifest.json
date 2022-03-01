@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a29ba888.css",
+    "main.js": "/portfolio/static/js/main.f75d1734.js",
+    "static/media/user.jpg": "/portfolio/static/media/user.953d937e12b026d2ba9d.jpg",
+    "static/media/coffee.jpg": "/portfolio/static/media/coffee.11d60b24d36f43d0fc9e.jpg",
+    "static/media/orange.jpg": "/portfolio/static/media/orange.697e1818dabf098e039e.jpg",
+    "static/media/telephone.jpg": "/portfolio/static/media/telephone.18356ef3f92ff9395613.jpg",
+    "static/media/budget-calculator.jpg": "/portfolio/static/media/budget-calculator.ac052476cef86e3b62ed.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0c658075c1cc5b769a4c.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.bba6224f13449adf0f6a.png",
+    "static/media/git.png": "/portfolio/static/media/git.3f41065a9068c05e38a5.png",
+    "index.html": "/portfolio/index.html",
+    "main.a29ba888.css.map": "/portfolio/static/css/main.a29ba888.css.map",
+    "main.f75d1734.js.map": "/portfolio/static/js/main.f75d1734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29ba888.css",
+    "static/js/main.f75d1734.js"
+  ]
+}

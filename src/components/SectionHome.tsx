@@ -1,5 +1,5 @@
 import React from 'react';
-import user from '../images/user.jpg';
+import user from '../images/i.jpg';
 
 export const SectionHome = () => {
     return (

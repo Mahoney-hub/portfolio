@@ -16,8 +16,8 @@ export const SectionPortfolio = () => {
                     <img src={budgetCalculator} alt="image"/>
                     <div className="content">
                         <h3>budget calculator</h3>
-                        <p>Project budget calculator. Technologies that have been used: SCSS, React TS,
-                            Redux-Toolkit</p>
+                        <p>Project budget calculator</p>
+                        <p>Technologies: SCSS, React TS, Redux-Toolkit</p>
                         <a href="https://Mahoney-hub.github.io/budget_calculator" target="_blank">view the
                             project</a>
                     </div>
